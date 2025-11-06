@@ -12,21 +12,27 @@ body{
     align-items: center;
     margin-top: 90px;
     color: rgb(66, 66, 66);
+    width: auto;
+    height: auto;
 }
 
 img{
     display: flex;
     width: 100px;
     height: 100px;
+    
 }
 
 .imageandh1{
     display: inline-flex;
-    gap: 200px;
-    margin: 0%;
+    gap: 195px;
+    margin: auto;
+    width: 100%;
+   
 }
 .header{
     margin: auto;
+    
 }
 .header p{
     margin-top:-20px;
@@ -41,10 +47,10 @@ img{
 h1{
     
     font-size: 40px;
-    font-weight: 600;
+    font-weight: 500;
 }
 label{
-    font-weight: 600;
+    font-weight: 500;
     font-size: 15px;
     
 }
@@ -83,7 +89,7 @@ button{
 }
 
 .bottom{
-    font-weight:600;
+    font-weight:500;
     margin: auto;
     text-align: center;
     font-size: 15px;
