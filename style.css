@@ -37,7 +37,7 @@ img{
 .header p{
     margin-top:-20px;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 550;
 }
 .form{
     width: 100%;
@@ -48,6 +48,7 @@ h1{
     
     font-size: 35px;
     font-weight: 500;
+    color: black;
 }
 label{
     font-weight: 500;
@@ -72,8 +73,6 @@ input:focus{
     border-color: #2b65e3;
     border: 1px solid  #2b65e3;
 }
-
-
 button{
     /*background: linear-gradient(to right, #08f7af, #377dff); */
     border-radius: .5rem;
@@ -87,9 +86,8 @@ button{
     font-weight: 750;
     text-decoration: none;
 }
-
 .bottom{
-    font-weight:500;
+    font-weight:550;
     margin: auto;
     text-align: center;
     font-size: 15px;
