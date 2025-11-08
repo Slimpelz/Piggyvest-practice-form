@@ -10,8 +10,8 @@ body{
     background-color: #ffffff;
     display: grid;
     align-items: center;
-    margin-top: 90px;
-    color: rgb(66, 66, 66);
+    margin-top: 80px;
+    color: rgb(88, 88, 88);
     width: auto;
     height: auto;
 }
@@ -25,7 +25,7 @@ img{
 
 .imageandh1{
     display: inline-flex;
-    gap: 195px;
+    gap: 210px;
     margin: auto;
     width: 100%;
    
@@ -37,7 +37,7 @@ img{
 .header p{
     margin-top:-20px;
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .form{
     width: 100%;
@@ -46,7 +46,7 @@ img{
 }
 h1{
     
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 500;
 }
 label{
